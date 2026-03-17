@@ -1,0 +1,7 @@
+<Solution>
+  <Configurations>
+    <Platform Name="x64" />
+    <Platform Name="x86" />
+  </Configurations>
+  <Project Path="StatusWindow/StatusWindow.vcxproj" Id="9d6e45b9-e573-4e56-a638-795cfe8bfcf4" />
+</Solution>
